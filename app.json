@@ -1,0 +1,17 @@
+{
+  "name": "AppointmentApp",
+  "displayName": "AppointmentApp",
+  "expo": {
+    "name": "AppointmentApp",
+    "slug": "AppointmentApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
